@@ -1,0 +1,6 @@
+@parallax_tickets_api_HostAddress = http://localhost:5143
+
+GET {{parallax_tickets_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
